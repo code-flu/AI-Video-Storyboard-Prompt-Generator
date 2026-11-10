@@ -1,5 +1,7 @@
 # AI Video Storyboard Prompt Generator
 
+[Open the live Storyboard Prompt Generator](https://code-flu.github.io/AI-Video-Storyboard-Prompt-Generator/)
+
 A zero-dependency web page that turns a short video brief into one ready-to-paste prompt for ChatGPT, Claude, Gemini or any LLM. The LLM then returns a complete clip-by-clip storyboard with **first frame image prompts, last frame image prompts and video prompts** for every clip, written so the clips look like one consistent video when you stitch them together.
 
 No build step, no backend, no API keys. Open `index.html` and go.
